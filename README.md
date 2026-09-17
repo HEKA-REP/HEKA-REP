@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.jpg" alt="Sala de reuniones de HEKA" width="100%" />
+  <img src="./header.jpg" alt="Sala de reuniones de HEKA" width="100%" height="220" />
 </p>
 
 <div align="center">
